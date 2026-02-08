@@ -1,4 +1,15 @@
-## Hi there 👋
+# Isa Omar
+
+Full-Stack Developer | GIS & Geospatial Engineer  
+Remote Sensing • PostGIS • Web Mapping
+
+📍 Baku, Azerbaijan  
+🔗 LinkedIn: https://linkedin.com/in/isaomar  
+🔗 GitHub: https://github.com/isaomarr
+
+## About me
+I build geospatial web applications, work with GIS data, and develop full-stack solutions using modern web technologies.
+
 
 <!--
 **isaomarr/isaomarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
