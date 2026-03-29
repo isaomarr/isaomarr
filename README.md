@@ -4,9 +4,9 @@ Full-Stack Developer | GIS & Geospatial Engineer
 Remote Sensing • PostGIS • Web Mapping
 
 📍 Baku, Azerbaijan 
-🔗 LinkedIn: https://isaomar.com                                                    
-🔗 LinkedIn: https://linkedin.com/in/isaomar  
-🔗 GitHub: https://github.com/isaomarr
+🌍 Website: [isaomar.com](https://isaomar.com)  
+💼 LinkedIn: [linkedin.com/in/isaomar](https://linkedin.com/in/isaomar)  
+💻 GitHub: [github.com/isaomarr](https://github.com/isaomarr)
 
 ## About me
 I build geospatial web applications, work with GIS data, and develop full-stack solutions using modern web technologies.
