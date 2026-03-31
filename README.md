@@ -1,29 +1,46 @@
 # Isa Omar
 
-Full-Stack Developer | GIS & Geospatial Engineer  
-Remote Sensing • PostGIS • Web Mapping
+ Founder of GeoStackLabs | Full-Stack GIS Engineer
+Building Web GIS, Spatial Analysis Platforms & Data-Driven Tools
 
-📍 Baku, Azerbaijan    
+ Baku, Azerbaijan
 
-🌍 Website: [isaomar.com](https://isaomar.com)    
-💼 LinkedIn: [linkedin.com/in/isaomar](https://linkedin.com/in/isaomar)    
-💻 GitHub: [github.com/isaomarr](https://github.com/isaomarr)   
+Website: https://isaomar.com   
+LinkedIn: https://linkedin.com/in/isaomar   
+GitHub: https://github.com/isaomarr  
 
-## About me
-I build geospatial web applications, work with GIS data, and develop full-stack solutions using modern web technologies.
+---
 
+##  About Me
 
-<!--
-**isaomarr/isaomarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and develop scalable geospatial systems, combining GIS, remote sensing, and full-stack development.
 
-Here are some ideas to get you started:
+Focused on building real-world solutions using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Mapping & Interactive GIS Applications
+* Spatial Data Analysis & Visualization
+* Backend Systems with PostGIS & APIs
+* Remote Sensing & Satellite Data Processing
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** JavaScript, React, Mapbox, Leaflet
+**Backend:** Node.js, PostgreSQL, PostGIS
+**GIS Tools:** QGIS, ArcGIS, GDAL
+**Other:** REST APIs, GeoJSON, Docker
+
+---
+
+##  Current Focus
+
+* Building **GeoStackLabs** (Web GIS platform)
+* Developing spatial analysis tools
+* Scaling geospatial products for real users
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate on GIS & Web projects 🚀
