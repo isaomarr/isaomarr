@@ -1,6 +1,6 @@
 # Isa Omar
 
- Founder of GeoStackLabs | Full-Stack GIS Engineer
+| Full-Stack GIS Engineer
 Building Web GIS, Spatial Analysis Platforms & Data-Driven Tools
 
  Baku, Azerbaijan
@@ -24,7 +24,7 @@ Focused on building real-world solutions using:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** JavaScript, React, Mapbox, Leaflet
 **Backend:** Node.js, PostgreSQL, PostGIS
@@ -41,6 +41,6 @@ Focused on building real-world solutions using:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 Feel free to connect or collaborate on GIS & Web projects 🚀
